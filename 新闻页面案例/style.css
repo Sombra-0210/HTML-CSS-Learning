@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-weight: 400
+}
+
+p {
+    text-indent: 2em
+}
+
+body {
+    font: 16px/28px 'Microsoft Yahei'
+}
+
+div {
+    text-align: center;
+    color: #9ca7af;
+}
+
+a {
+    text-decoration: none
+}
+
+.search {
+    color: #9ca7af
+}
+
+.pic {
+    text-align:center
+}
